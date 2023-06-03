@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'stag sans semibold';
+	src: url('Stag Sans-Semibold.eot');
+	src: url('Stag Sans-Semibold.eot?#iefix') format('embedded-opentype'),
+		url('Stag Sans-Semibold.woff') format('woff'),
+		url('Stag Sans-Semibold.ttf') format('truetype'),
+		url('Stag Sans-Semibold.svg') format('svg');
+}

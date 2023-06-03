@@ -1,0 +1,361 @@
+@charset "utf-8";
+/* CSS Document */
+/* redefinicao da template */
+.topo {
+	height: 252px;
+}
+.titulos-container, .conteudos-navegacao {
+	display: none;
+	visibility: hidden;
+}
+.corpo, .conteudos {
+	max-width: 2000px;
+	width: 100%;
+}
+.conteudos {
+	padding-left: 0;
+	padding-right: 0;
+}
+/* banners */
+.banners {
+	display: block;
+}
+/* container noticias + artigos + jornal + chamadas banners */
+.conteudos-largura-fixa {
+	margin: 0 auto;
+	max-width: 1150px;
+	width: 100%;
+}
+/* noticias + artigos */
+.noticias-artigos-container {
+	display: inline-block;
+	float: left;
+	max-width: 725px;
+	width: 63.044%;
+}
+.noticias, .artigos {
+	float: left;
+	width: 98%;
+}
+.noticias-cabecalho, .artigos-cabecalho {
+	float: left;
+	margin-bottom: 17px;
+	width: 100%;
+}
+.noticias-titulo, .artigos-titulo {
+	float: left;
+	max-width: 187px;
+	width: 100%;
+}
+.noticias-linha-titulo, .artigos-linha-titulo {
+	border-bottom: solid 1px #1e6baf;
+	float: left;
+	margin-top: 14px;
+	text-align: right;
+	width: 73.6%;
+}
+.noticias-botao, .artigos-botao {
+	max-width: 105px;
+	width: 100%;
+}
+.noticia, .artigo {
+	background: #eff7fc;
+	border: solid 1px transparent;
+	display: inline-block;
+	font-family: 'open_sansregular';
+	font-size: 1.2rem;
+	margin-bottom: 2%;
+	margin-left: 1%;
+	margin-right: 1%;
+	max-width: 338px;
+	position: relative;
+	width: 48%;
+	z-index: 9;
+}
+.noticia:hover, .artigo:hover {
+	border: solid 1px #CCCCCC;
+}
+.noticia div, .artigo div {
+	line-height: 1.9rem;
+	padding: 12px;
+	text-align: justify;
+}
+.noticia img, .artigo img {
+	border-bottom: solid 1px #2a2c69;
+	display: block;
+	width: 100%;
+}
+.noticia-data, .artigo-data {
+	background: #2a2c69;
+	box-shadow: 0px 1px 2px 0px rgba(7, 6, 6, 0.122), inset 0px 1px 0px 0px rgba(255, 255, 255, 0.051);
+	color: #ffffff;
+	font-family: 'helveticaneue_lt_63_mdexMdext';
+	font-size: 1.5rem;
+	height: 100rem;
+	left: 14px;
+	line-height: 2.9rem;
+	max-height: 30px;
+	max-width: 98px;
+	position: absolute;
+	text-align: center;
+	top: 151px;
+	width: 100%;
+	z-index: 10;
+}
+.noticia-titulo, .artigo-titulo {
+	color: #424242;
+	display: block;
+	font-weight: bold;
+	margin-top: 8px;
+}
+.noticia a, .artigo a {
+	color: #424242;
+}
+.noticia a:hover, .noticia a:focus, .artigo a:hover, .artigo a:focus {
+	text-decoration: none;
+}
+/* jornal + chamadas-banners */
+.jornal-chamadas-banners {
+	display: inline-block;
+	float: left;
+	margin-left: 2%;
+	max-width: 400px;
+	width: 34.783%;
+}
+.jornal-container {
+	float: left;
+	margin-bottom: 15px;
+	width: 100%;
+}
+.jornal-cabecalho {
+	float: left;
+	margin-bottom: 10px;
+	padding-left: 6px;
+	width: 100%;
+}
+.jornal-titulo {
+	max-width: 200px;
+	width: 100%;
+}
+.jornal {
+	background-image: -moz-linear-gradient( 90deg, rgb(46,87,154) 0%, rgb(58,120,178) 100%);
+	background-image: -webkit-linear-gradient( 90deg, rgb(46,87,154) 0%, rgb(58,120,178) 100%);
+	background-image: -ms-linear-gradient( 90deg, rgb(46,87,154) 0%, rgb(58,120,178) 100%);
+	border-radius: 12px 12px 0 0;
+	-webkit-border-radius: 12px 12px 0 0;
+	-moz-border-radius: 12px 12px 0 0;
+	box-shadow: 0px 1px 2px 0px rgba(7, 6, 6, 0.341), inset 0px 1px 0px 0px rgba(255, 255, 255, 0.051);
+	float: left;
+	font-family: 'open_sansregular';
+	font-size: 1.2rem;
+	line-height: 1.55rem;
+	padding: 7%;
+	width: 100%;
+}
+.jornal-capa {
+	float: left;
+	margin-right: 12px;
+}
+.jornal-data {
+	display: block;
+	font-family: 'open_sansregular';
+	font-size: 1.4rem;
+	font-weight: bold;
+	padding: 4px 0;
+}
+.jornal a {
+	color: #ffffff;
+}
+.jornal-rodape {
+	background: #f0f7fb;
+	border-radius: 0 0 12px 12px;
+	-webkit-border-radius: 0 0 12px 12px;
+	-moz-border-radius: 0 0 12px 12px;
+	float: left;
+	padding: 2%;
+	text-align: center;
+	width: 100%;
+}
+.jornal-botao {
+	background-image: -moz-linear-gradient( 90deg, rgb(28,47,107) 5%, rgb(48,74,140) 6%, rgb(73,101,164) 100%);
+	background-image: -webkit-linear-gradient( 90deg, rgb(28,47,107) 5%, rgb(48,74,140) 6%, rgb(73,101,164) 100%);
+	background-image: -ms-linear-gradient( 90deg, rgb(28,47,107) 5%, rgb(48,74,140) 6%, rgb(73,101,164) 100%);
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	box-shadow: inset 0px -2px 0px 0px rgba(0, 0, 0, 0.196);
+	color: #ffffff;
+	display: block;
+	font-family: 'stag sans semibold';
+	font-size: 1.8rem;
+	margin: 0 auto;
+	max-width: 353px;
+	padding: 4px 0;
+	text-shadow: 0.5px 0.866px 1px rgba(0, 0, 0, 0.086);
+	text-transform: uppercase;
+	width: 100%;
+}
+.jornal-botao:hover, .jornal-botao:focus {
+	background-image: -moz-linear-gradient( 90deg, rgb(196,143,10) 50%, rgb(208,166,15) 51%);
+	background-image: -webkit-linear-gradient( 90deg, rgb(196,143,10) 50%, rgb(208,166,15) 51%);
+	background-image: -ms-linear-gradient( 90deg, rgb(196,143,10) 50%, rgb(208,166,15) 51%);
+	color: #ffffff;
+	text-decoration: none;
+}
+/* chamadas-banners */
+.chamadas-banners {
+	float: left;
+	width: 100%;
+}
+.chamadas-banners img {
+	max-width: 392px;
+	width: 100%;
+}
+.chamada-banner {
+	background-image: -moz-linear-gradient( 90deg, rgb(46,87,154) 0%, rgb(58,120,178) 100%);
+	background-image: -webkit-linear-gradient( 90deg, rgb(46,87,154) 0%, rgb(58,120,178) 100%);
+	background-image: -ms-linear-gradient( 90deg, rgb(46,87,154) 0%, rgb(58,120,178) 100%);
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	box-shadow: 0px 1px 2px 0px rgba(7, 6, 6, 0.341), inset 0px 1px 0px 0px rgba(255, 255, 255, 0.051);
+	display: block;
+	margin: 50px 0;
+	max-width: 392px;
+	width: 100%;
+}
+.chamada-banner:hover, .chamada-banner:focus {
+	background-image: -moz-linear-gradient( 90deg, rgb(58,120,178) 0%, rgb(46,87,154) 100%);
+	background-image: -webkit-linear-gradient( 90deg, rgb(58,120,178) 0%, rgb(46,87,154) 100%);
+	background-image: -ms-linear-gradient( 90deg, rgb(58,120,178) 0%, rgb(46,87,154) 100%);
+}
+/* logos */
+.logos-container {
+	border-top: dashed 1px #1e6baf;
+	display: block;
+	float: left;
+	max-width: 2000px;
+	padding: 3% 0;
+	width: 100%;
+}
+.logos {
+	margin: 0 auto;
+	max-width: 1170px;
+	text-align: center;
+	width: 100%;
+}
+.logos-item {
+	display: inline-block;
+	margin: 0 1.5%;
+}
+/* tablet ~ mobile */
+@media screen and (max-width: 767px) and (min-width: 320px) {
+.conteudos-largura-fixa {
+	padding-left: 2%;
+	padding-right: 2%;
+}
+.noticias-artigos-container {
+	width: 100%;
+}
+.noticias, .artigos {
+	border-bottom: solid 1px #D4D4D4;
+	margin-bottom: 15px;
+	padding-bottom: 15px;
+}
+.noticias-linha-titulo, .artigos-linha-titulo {
+	float: right;
+	margin-top: 2px;
+	width: 100%;
+}
+.noticia, .artigo {
+	width: 46%;
+}
+.noticia-data, .artigo-data {
+	padding: 3%;
+	position: relative;
+	top: -15px;
+}
+.noticia div, .artigo div {
+	margin-top: -15px;
+	padding-top: 0;
+}
+.jornal-chamadas-banners {
+	margin-left: 0;
+	max-width: 757px;
+	width: 100%;
+}
+.jornal-container, .chamadas-banners {
+	display: block;
+	float: none;
+	margin: 0 auto;
+	max-width: 757px;
+	overflow: visible;
+	width: 100%;
+}
+.chamadas-banners {
+	text-align: center;
+}
+.chamada-banner {
+	margin-left: auto;
+	margin-right: auto;
+}
+}
+@media screen and (max-width: 659px) and (min-width: 320px) {
+.noticia, .artigo {
+	max-width: 649px;
+	width: 96%;
+}
+.noticia-data, .artigo-data {
+	padding: 1.5% 3%;
+	position: relative;
+	top: -15px;
+}
+}
+@media screen and (max-width: 426px) and (min-width: 320px) {
+.jornal {
+	text-align: justify;
+}
+.jornal-capa {
+	display: block;
+	float: none;
+	margin-bottom: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
+}
+/* desktops */
+@media screen and (max-width: 1169px) and (min-width: 768px) {
+.conteudos-largura-fixa {
+	padding-left: 2%;
+	padding-right: 2%;
+}
+.noticias {
+	border-bottom: dotted 2px #D4D4D4;
+	margin-bottom: 15px;
+	padding-bottom: 15px;
+}
+.noticias-linha-titulo, .artigos-linha-titulo {
+	float: right;
+	margin-top: 2px;
+	width: 100%;
+}
+.noticia, .artigo {
+	width: 46%;
+}
+.noticia-data, .artigo-data {
+	padding: 3%;
+	position: relative;
+	top: -15px;
+}
+.noticia div, .artigo div {
+	margin-top: -15px;
+	padding-top: 0;
+}
+.jornal-capa {
+	display: block;
+	float: none;
+	margin-bottom: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
+}

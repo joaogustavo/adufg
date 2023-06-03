@@ -1,0 +1,179 @@
+<!doctype html>
+<!--[if IEMobile 7 ]> <html dir="ltr" lang="pt-BR"class="no-js iem7"> <![endif]-->
+<!--[if lt IE 7 ]> <html dir="ltr" lang="pt-BR" class="no-js ie6 oldie"> <![endif]-->
+<!--[if IE 7 ]>    <html dir="ltr" lang="pt-BR" class="no-js ie7 oldie"> <![endif]-->
+<!--[if IE 8 ]>    <html dir="ltr" lang="pt-BR" class="no-js ie8 oldie"> <![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!-->
+<html dir="ltr" lang="pt-BR" class="no-js">
+<!--<![endif]-->
+<head>
+<!-- 20/04/2015 -->
+<!-- meta tags -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+<meta name="title" content="Adufg - Sindicato dos Docentes das Universidades Federais de Goi&aacute;s"/>
+<meta name="author" content="GO!Sites - Soluções Online - (62) 3941-7878 gosites@gosites.com.br">
+<meta name="copyright" content="® 2015" />
+<meta name="keywords" content="" />
+<meta name="distribution" content="global">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Adufg - Sindicato dos Docentes das Universidades Federais de Goi&aacute;s</title>
+<!-- TemplateEndEditable -->
+<!-- favicon -->
+<link rel="icon" type="image/x-icon" href="../img/favicon.ico">
+<link rel="shortcut icon" href="../img/favicon.png">
+<!-- css -->
+<link href="../css/bootstrap.css" rel="stylesheet" type="text/css" />
+<link href="../css/layout.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<!-- TemplateBeginEditable name="header" -->
+
+<!-- TemplateEndEditable -->
+<header class="topo">
+  <!-- logo -->
+  <div id="logo"><a href="../principal.html" target="_self"><img src="../img/logo.svg" class="logo" alt="Adufg - Sindicato dos Docentes das Universidades Federais de Goi&aacute;s"></a></div>
+  <!-- links e busca -->
+  <div class="links-busca">
+    <div class="links">
+      <a href="../principal.html" target="_self"><img src="../img/icone-home.svg" class="links-icone-home" alt="Adufg - Sindicato dos Docentes das Universidades Federais de Goi&aacute;s"></a>
+      <a href="../irpf.html" target="_blank" class="links-irpf">IRPF</a>
+      <a href="../fale.html" target="_self"><img src="../img/icone-email.svg" class="links-icone-fale" alt="Fale Conosco"></a>
+    </div>
+    <form id="busca" name="busca" method="post">
+      <label for="busca-campo"></label>
+      <input name="busca-campo" type="text" class="busca-campo" id="" placeholder="Realize sua busca:">
+      <input type="button" name="busca-botao" class="busca-botao" id="" value="">
+    </form>
+  </div>
+  <!-- /.links-busca -->
+  <!-- navegacao min.768px -->
+  <nav class="navegacao" id="navegacao">
+    <ul>
+      <li><a href="../o-sindicato.html" target="_self">O Sindicato</a></li>
+      <li><a href="../beneficios.html" target="_self">Benef&iacute;cios</a></li>
+      <li><a href="../projetos.html" target="_self">Projetos</a></li>
+      <li><a href="../noticias.html" target="_self">Not&iacute;cias</a></li>
+      <li><a href="../fotos.html" target="_self">Fotos</a></li>
+      <li><a href="../artigos.html" target="_self">Artigos</a></li>
+      <li><a href="../comunicacao.html" target="_self">Comunica&ccedil;&atilde;o</a></li>
+      <li><a href="../filie-se.html" target="_self">Filie-se</a></li>
+      <li><a href="../acoes-juridicas.html" target="_self">A&ccedil;&otilde;es Jur&iacute;dicas</a></li>
+    </ul>
+  </nav>
+</header>
+<!-- /.topo -->
+<div class="clearfix"></div>
+<section class="banners">
+  <!-- TemplateBeginEditable name="banners" -->
+  
+  <!-- TemplateEndEditable -->
+</section>
+<!-- /.banners -->
+<div class="clearfix"></div>
+<section class="titulos-container">
+  <div class="titulos"><h1><!-- TemplateBeginEditable name="titulos" --><!-- TemplateEndEditable --></h1></div>
+</section>
+<!-- /.titulos -->
+<div class="clearfix"></div>
+<main class="corpo">
+  <section class="conteudos">
+    <!-- TemplateBeginEditable name="conteudos" -->
+    
+    <!-- TemplateEndEditable -->
+  </section>
+  <!-- /.conteudos -->
+  <div class="clearfix"></div>
+  <div class="conteudos-navegacao">
+    <a href="javascript:history.back(-1)" target="_self"><img src="../img/botao-voltar.svg" class="botao-voltar hvr-wobble-horizontal" alt="voltar para p&aacute;gina anterior"></a>
+  </div>
+</main>
+<!-- /.corpo -->
+<div class="clearfix"></div>
+<footer id="rodape">
+  <div class="redes-sociais-container">
+    <section class="facebook">
+      <div class="desktop">
+        <iframe src="http://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fadufgsindicato&amp;width=762&amp;height=188&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100%; height:208px;" allowTransparency="true" id="facebook"></iframe>
+      </div>
+      <div class="mobile">
+        <iframe src="http://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fadufgsindicato&amp;width=762&amp;height=188&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100%; height:208px;" allowTransparency="true" id="facebook"></iframe>
+      </div>
+    </section>
+    <!-- /.facebook -->
+    <div class="redes-sociais">
+      Acesse nossas redes sociais:<br />
+      <a href="http://instagram.com/adufgsindicato" target="_blank"><img src="../img/logo-instagram.svg" class="redes-sociais-icone" alt="Adufg no Instagram"></a>
+      <a href="http://www.twitter.com/adufg" target="_blank"><img src="../img/logo-twitter.svg" class="redes-sociais-icone" alt="Adufg no Twitter"></a>
+      <a href="https://plus.google.com/u/0/photos/118303911238934348048/albums" target="_blank"><img src="../img/logo-picasa.svg" class="redes-sociais-icone" alt="Adufg no Picasa"></a>
+    </div>
+  </div>
+  <!-- /.redes-sociais -->
+  <div class="clearfix"></div>
+  <div class="rodape">
+    <div class="copyright-endereco">
+      <div class="copyright">Copyright &copy; 2015. <span>Todos os direitos reservados</span></div>
+      <address class="endereco">
+        <strong>Adufg - Sindicato dos Docentes das Universidades Federais de Goi&aacute;s</strong><br />
+        9&ordf; Avenida N&ordm; 193 Setor Leste Vila Nova - Goi&acirc;nia|GO - CEP:74.643-080<br />
+        <div class="desktop">Telefones: (62) 3202-1280 | Fax (62) 3202-2641</div>
+        <div class="mobile">Telefones: <a href="tel:+556232021280">(62) 3202-1280</a> | <a href="fax:+556232022641">Fax (62) 3202-2641</a></div>
+      </address>
+    </div>
+    <div id="gosites">desenvolvido por <a href="http://www.gosites.com.br" target="_blank"><img src="../img/gosites.svg" class="gosites" alt="GO!Sites"></a></div>
+  </div>
+</footer>
+<!-- /rodape -->
+<!-- TemplateBeginEditable name="footer" -->
+
+<!-- TemplateEndEditable -->
+<!-- navegacao max. 767px -->
+<div class="mobile">
+  <header class="mobile-topo">
+    <!-- logo -->
+    <section id="logo-mobile"><a href="../principal.html" target="_self"><img src="../img/logo.svg" class="logo-mobile" alt="Adufg - Sindicato dos Docentes das Universidades Federais de Goi&aacute;s"></a></section>
+    <!-- menu icone -->
+    <nav id="nav-mobile"> <a href="javascript:void(0)" data-toggle="modal" data-target="#nav-mob"><img src="../img/mob-menu.svg" class="nav-mobile" alt="Menu"></a> </nav>
+  </header>
+    <!-- menu mobile -->
+    <div class="modal fade menu-mobile fade-menu-mobile" id="nav-mob" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog menu-mobile-dialog">
+        <div class="modal-content menu-mobile-content">
+          <div class="modal-header menu-mobile-header"><a href="javascript:void(0)" class="fechar"><img src="../img/fechar.svg" alt="Fechar Menu" data-dismiss="modal" aria-hidden="true"></a></div>
+          <div class="modal-body menu-mobile-body">
+            <!-- conteudos menu aqui -->
+            <ul class="menu-movel">
+              <li><a href="../o-sindicato.html" target="_self">O Sindicato</a></li>
+              <li><a href="../beneficios.html" target="_self">Benef&iacute;cios</a></li>
+              <li><a href="../projetos.html" target="_self">Projetos</a></li>
+              <li><a href="../noticias.html" target="_self">Not&iacute;cias</a></li>
+              <li><a href="../fotos.html" target="_self">Fotos</a></li>
+              <li><a href="../artigos.html" target="_self">Artigos</a></li>
+              <li><a href="../comunicacao.html" target="_self">Comunica&ccedil;&atilde;o</a></li>
+              <li><a href="../filie-se.html" target="_self">Filie-se</a></li>
+              <li><a href="../acoes-juridicas.html" target="_self">A&ccedil;&otilde;es Jur&iacute;dicas</a></li>
+              <li><a href="../fale.html" target="_self">Fale Conosco</a></li>
+            </ul>
+          </div>
+          <div class="modal-footer menu-mobile-footer"></div>
+        </div>
+      </div>
+    </div>
+    <!-- /nav-mob --> 
+</div>
+<!-- /.mobile --> 
+<!-- modal menu movel-->
+<style>
+.menu-mobile {
+	padding-left: 0 !important; /* NAO ALTERAR */
+	padding-right: 0 !important; /* NAO ALTERAR */
+}
+</style>
+<!-- scripts --> 
+<script src="../js/jquery-1.11.2.min.js"></script>
+<script src="../js/bootstrap.js"></script>
+</body>
+</html>
